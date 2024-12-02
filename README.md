@@ -4,10 +4,10 @@ Advent of Code is an Advent calendar [Advent of Code](https://adventofcode.com/)
 This year I will use the `Go` programming language, as a challenge and a way to learn a new language. 
 
 
-#### Stars collected: 2/50
+#### Stars collected: 4/50
 
 ##### Day 1: 2/2
-##### Day 2: 0/2
+##### Day 2: 2/2
 ##### Day 3: 0/2
 ##### Day 4: 0/2
 ##### Day 5: 0/2
